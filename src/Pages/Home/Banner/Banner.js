@@ -41,7 +41,7 @@ const Banner = () => {
                 </div>
                 <div>
                     <h1 className="text-5xl font-bold">Cultivating, Harvesting & Growing.</h1>
-                    <p className="py-6">Agro products refer to the raw materials and commodities that are produced through agricultural processes. These products are typically grown and harvested from farms...</p>
+                    <p className="py-6">Cultivating involves preparing the soil for planting and maintaining its condition to support healthy plant growth. Harvesting is the process of gathering crops or plants when they are mature...</p>
                     <button className="btn bg-gradient-to-r from-primary to-secondary text-white">Get Started</button>
                 </div>
             </div>

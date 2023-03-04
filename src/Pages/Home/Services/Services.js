@@ -10,21 +10,21 @@ const Services = () => {
         {
             id: 1,
             name: 'Hygiene',
-            description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente, eaque.',
+            description: 'Hygiene agro products are  maintain cleanliness and safety in agricultural production and processing.',
             img: vegetables
 
         },
         {
             id: 2,
             name: 'Package',
-            description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente, eaque.',
+            description: 'The package of agro products was securely sealed and labeled with the necessary information.',
             img: box
 
         },
         {
             id: 3,
             name: 'Export & Import',
-            description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente, eaque.',
+            description: 'We are exported and imported between countries to meet the demand for various food and agricultural commodities.',
             img: truck
 
         },
